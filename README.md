@@ -1,7 +1,7 @@
- index.html
-Compra.html
-traje.html
-sudadera.html
-pantalon.html
-falda.html
-Blusas.html
+ # index.html
+# Compra.html
+# traje.html
+# sudadera.html
+# pantalon.html
+# falda.html
+# Blusas.html
